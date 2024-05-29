@@ -1,0 +1,14 @@
+# First Program
+# Calculate Area of Circle
+# Area of Circle = 𝜋r**2
+# Area of Circle = Pie*radius**2
+
+p = 3.1415 # Value of Pie
+rad = dia/2 # rad is radius and dia denotes diameter
+
+
+input p value
+input rad value
+Calculate Area of Circle by:
+     pie times r square
+display area of circle
